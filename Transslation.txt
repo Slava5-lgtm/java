@@ -1,0 +1,31 @@
+example – пример
+lesson – урок
+seminar – семинар 
+lection – лекция
+Additional lesson - дополнительный урок
+Translation - перевод
+teams - команды
+language - язык
+Task - Задача
+practice - практика
+Content - содержание
+False - Ложный
+True - Правда
+functions - функции
+Data type variables - тип данных переменные
+File - файлы
+Functions by default - функции по умолчанию
+Arguments - аргументы
+Recursion - Рекурсия
+Tuples - Кортежи
+Dictionary - Словори
+plenty - множество
+List - Список
+Comprehension - Понимание
+Module - модуль
+Controller - контролер
+Algorithm - Алгоритм
+Generator - генератор
+Decator - Декатор
+Readme - Прочитай меня
+Introductions - Введения 
