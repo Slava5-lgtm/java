@@ -151,6 +151,19 @@ public class data_type_variables {
             Жизнь и свободу заслужил.
             """;
     System.out.println(text); */
-  
+
+                    /** Обертка — это специальный класс, который хранит внутри себя значение примитива. */
+                                    // ** Классы обертки
+                            /** int     -    Integer
+                             *  short   -    Short
+                             *  long    -    Long
+                             *  byte    -    Byte
+                             *  float   -    Float
+                             *  double  -    Double
+                             *  char    -    Character
+                             *  boolean -    Boolean
+                             */
+                                        
+                                     
 }
 
