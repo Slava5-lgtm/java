@@ -4,3 +4,4 @@ lection - 1
                             - Introductions - Введения
                             - Data type variables - тип данных переменные
                             - arrays - Массивы
+                            - Getting data from the terminal - Получение данных из терминала
