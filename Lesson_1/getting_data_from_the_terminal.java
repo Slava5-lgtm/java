@@ -1,4 +1,4 @@
-package Lection_1;
+package Lesson_1;
 
 import java.util.Scanner;                               //* Чтобы заберать чтото из терминала (или читать файл с компа) надо
                                                         //* импортировать Scaner */

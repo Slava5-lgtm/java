@@ -1,4 +1,4 @@
-package lection_2;
+package Lesson_2;
 
 public class binary {
     public static void main(String[] args) {

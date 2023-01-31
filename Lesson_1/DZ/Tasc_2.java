@@ -1,5 +1,5 @@
 /** Реализуйте алгоритм сортировки пузырьком для сортировки массива */
-package Lection_1.DZ;
+package Lesson_1.DZ;
 
 public class Tasc_2 {
     public class program {

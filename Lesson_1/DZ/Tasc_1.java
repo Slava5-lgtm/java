@@ -2,7 +2,7 @@
 
 Для генерации случайного числа используйте метод Math.random(), который возвращает значение в промежутке [0, 300]. */
 
-package Lection_1.DZ;
+package Lesson_1.DZ;
 
 public class Tasc_1 {
     public static void main(String[] args) {

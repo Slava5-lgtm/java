@@ -1,5 +1,5 @@
 //* Создание и запись\ дозапись */
-package Lection_1;
+package Lesson_1;
 
 import java.io.FileWriter;//*Сначало импортируум третию и четвертую строки */
 import java.io.IOException;
