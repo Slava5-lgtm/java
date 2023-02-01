@@ -33,3 +33,4 @@ Arrays - Массивы
 Getting data from the terminal - Получение данных из терминала
 Binary files - бинарные файлы (или двоичные файлы)
 Logging - Логирование
+Iterator - Итератор
