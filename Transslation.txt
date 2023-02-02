@@ -34,3 +34,4 @@ Getting data from the terminal - Получение данных из терми
 Binary files - бинарные файлы (или двоичные файлы)
 Logging - Логирование
 Iterator - Итератор
+Queue - Очередь
