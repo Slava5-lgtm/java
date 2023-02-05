@@ -1,4 +1,4 @@
-package Lesson_6;
+// package Lesson_6;
 
 // import java.*;
 // import java.util.Arrays;
