@@ -25,5 +25,3 @@ package Lesson_6;
 //     }
 
 // }
-
-
